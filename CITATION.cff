@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+- family-names: "Kerames"
+  given-names: "Jacob"
+  orcid: "https://orcid.org/0000-0002-2009-5903"
+title: "ActivityClassificationModel"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-11-13
+url: "https://github.com/JacobKerames/ActivityClassificationModel"
