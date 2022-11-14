@@ -1,6 +1,6 @@
 # ActivityClassificationModel
 
-This Github repository includes data, code, and information outlining procurement of testing and training data for activity classification in Create ML. The process includes raw motion data collection, labeling, and cleaning for training and testing the machine learning model. The trained model will provide detection of an activity with either hand, or a lack thereof, in a watchOS application.
+This GitHub repository includes data, code, and information outlining the procurement of training and testing data for activity classification in Create ML. The process includes raw motion data collection, labeling, and cleaning. The trained model will provide detection of an activity with either hand, or a lack thereof, in a watchOS application.
 
 # Steps
 
