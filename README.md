@@ -4,7 +4,7 @@ This GitHub repository includes data, code, and information outlining the procur
 
 # Steps
 
-* Collect raw accelerometer and gyroscope data from an Apple Watch, in the desired frequency, and output to .csv files
+* Collect raw accelerometer and gyroscope data from an Apple Watch, in the desired frequency, and output to .csv files.
 * Create a .json activity label log to specify the rounds, sessions, and activities of the raw motion data samples, using time stamps.
 * Open Python in a console and use the pandas library to compile all raw motion data into one file and specify the session and activity of each sample.
 * In the Python console, use the Turi Create library to create multiple .csv files containing samples of a specific activity. These files will then be used to train and test the machine learning model.
