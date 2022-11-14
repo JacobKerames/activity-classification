@@ -1,13 +1,13 @@
 # ActivityClassificationModel
 
-This repository includes data, code, and information outlining the procurement of testing and training data for an activity classification machine learning model in Create ML. The model will provide detection of an activity with either hand, or a lack thereof in watchOS application.
+This Github repository includes data, code, and information outlining procurement of testing and training data for activity classification in Create ML. The process includes raw motion data collection, labeling, and cleaning for training and testing the machine learning model. The trained model will provide detection of an activity with either hand, or a lack thereof, in a watchOS application.
 
-# What I Learned
+# Steps
 
-* Raw accelerometer and gyroscope data was collected from an Apple Watch in the form of .csv files.
-* A .json activity label log was created to specify the rounds, sessions and activities of the raw data samples with time stamps.
-* Python was used in Google Colaboratory with the pandas library to condense all raw data into one file and add activity and session labels to over 50,000 samples.
-* Python was then used with the Turi Create library to create multiple .csv files. Each file includes accelerometer and gyroscope data of an activity and were used to train and test the activity classification machine learning model in Create ML.
+* Collect raw accelerometer and gyroscope data from an Apple Watch, in the desired frequency, and output to .csv files
+* Create a .json activity label log to specify the rounds, sessions, and activities of the raw motion data samples, using time stamps.
+* Open Python in a console and use the pandas library to compile all raw motion data into one file and specify the session and activity of each sample.
+* In the Python console, use the Turi Create library to create multiple .csv files containing samples of a specific activity. These files will then be used to train and test the machine learning model.
 
 Portions of this work has been adapted from:
 https://github.com/skafos/ActivityClassifier
