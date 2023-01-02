@@ -1,4 +1,4 @@
-# Motion Data Collection Program
+# Motion Data Collection for Activity Classification
 
 <img src="https://user-images.githubusercontent.com/108101472/209432584-311c4ce0-61c6-4bef-be80-5ddf492a381c.png" width="1000">
 
