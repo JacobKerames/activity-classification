@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/108101472/209432584-311c4ce0-61c6-4bef-be80-5ddf492a381c.png" width="1000">
 
 <p>
-  <a href="https://colab.research.google.com/github/JacobKerames/ActivityClassificationModel/blob/main/DrawModel.ipynb">
+  <a href="https://colab.research.google.com/assets/colab-badge.svg">
     <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/></a>
 </p>
 
