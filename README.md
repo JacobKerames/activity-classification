@@ -2,6 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/108101472/209432584-311c4ce0-61c6-4bef-be80-5ddf492a381c.png" width="1000">
 
+<p>
+  <a href="https://colab.research.google.com/github/JacobKerames/ActivityClassificationModel/blob/main/DrawModel.ipynb">
+    <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg"/></a>
+</p>
+
 This project involves processing and analyzing data from the accelerometer and gyroscope sensors of an Apple Watch to classify various activities.
 
 ## Purpose
